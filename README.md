@@ -2,4 +2,4 @@
 
 Run the below command in PowerShell
 
-git config http.sslVerify "false"
+docker-compose -f docker-compose.yml up
